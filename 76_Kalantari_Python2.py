@@ -18,13 +18,13 @@ if 70<=x<=79:
 
 if 60<=x<=69:
     print("You got an D! Work harder next time.")
-    
+
 if 0<=x<=59:
     print("You got an F! Just drop out.")
-    
+
 #%%
 #Question 2
-    
+
 #%%
 #Question 3
 i = 1
@@ -32,3 +32,5 @@ while i<4:
     print("Hail,")
     i = i+1
 print("Alma Mater")
+
+#testing git
